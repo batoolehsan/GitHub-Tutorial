@@ -1,3 +1,3 @@
 # GitHub-Tutorial
 
-hey my namwe is batool
+hey my name is batool
